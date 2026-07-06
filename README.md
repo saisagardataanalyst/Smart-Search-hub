@@ -31,7 +31,7 @@ Perfect for researchers, students, professionals, and anyone seeking to efficien
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/Yuvraj0014/Smart-Search-Hub.git
+git clone https://github.com/saisagardataanalyst/Smart-Search-hub.git
 cd Smart-Search-Hub
 ```
 
